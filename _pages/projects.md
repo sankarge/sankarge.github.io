@@ -6,7 +6,13 @@ author_profile: true
 ---
 ##### Companies & Projects
 
-[Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - Current*|
+[Unite](https://unite.eu/en-gb), Leipzig, Germany. Senior software engineer, 2021 - Current|
+---------|
+Redesigning the shopping experince of B2B customers |
+Re-writting the shopping portal from scratch using modern tools |
+All-things-modern-frontend: Micro Front end, TypeScript, React, Nx, SingleSPA, GraphQL, aws, Gitlab |
+
+[Idealo](https://www.idealo.de/), Berlin, Germany. Senior software engineer, 2019 - 2021|
 ---------|
 [Pls take a look what my employer has to say about me](files/reference_idealo.pdf)|
 Proposed an improvement in design to tackle the growing maintenance issues with several microservice applications|
