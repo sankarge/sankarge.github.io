@@ -1,5 +1,5 @@
 ---
-permalink: /resume.html
+permalink: /resume
 excerpt: "resume"
 layout: home
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-permalink: /projects
+permalink: /projects.html
 excerpt: "projects of Sankarganesh Eswaran."
 layout: home
 author_profile: true
